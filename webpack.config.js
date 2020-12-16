@@ -13,7 +13,7 @@ module.exports = {
   plugins: [
     new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
-      title: 'webpack',
+      title: 'Virus Run',
       templates: 'src/index.html',
     }),
   ],
